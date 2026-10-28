@@ -1,0 +1,72 @@
+.DS_Store
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# IntelliJ / PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyre
+.pyre/
+
+# Pylint
+.pylint.d/
+
+# Generated files
+*.sqlite3
+*.db
+
+# Secrets / credentials
+credentials.json
+service-account.json
+secrets.json
