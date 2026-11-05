@@ -1,4 +1,5 @@
 # For downloading the nltk use below command in terminal/bash
+By Amit Vishwakarma
 python -m nltk.downloader punkt_tab
 python -m nltk.downloader averaged_perceptron_tagger_eng
 
