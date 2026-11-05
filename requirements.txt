@@ -9,3 +9,5 @@ opencv-python>=4.12.0
 numpy~=2.5.4
 protobuf~=7.36.2
 ipython~=9.17.1
+
+# module 2
